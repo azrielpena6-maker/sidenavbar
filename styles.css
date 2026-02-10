@@ -43,7 +43,7 @@
 }
 
 /* Show nav links only when expanded */
-.slidebar.active .nav-links {
+.sidebar.active .nav-links {
     opacity: 1;
     visibility: visible;
     transform: translateX(0);
