@@ -71,3 +71,7 @@
 .sidebar.active ~ .main-content {
     margin-left: 220px;
 }
+
+projectinfo.html {
+    text-align: center;
+}
